@@ -1,0 +1,11 @@
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.exe
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.deps.json
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.runtimeconfig.json
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.runtimeconfig.dev.json
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.dll
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\bin\Debug\netcoreapp3.0\0002-Teste.pdb
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\obj\Debug\netcoreapp3.0\0002-Teste.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\obj\Debug\netcoreapp3.0\0002-Teste.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\obj\Debug\netcoreapp3.0\0002-Teste.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\obj\Debug\netcoreapp3.0\0002-Teste.dll
+C:\Users\gabriel\Desktop\Projetos C#\0002-Teste\obj\Debug\netcoreapp3.0\0002-Teste.pdb

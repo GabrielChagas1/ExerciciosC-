@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/helloWorld/helloWorld.csproj",
+                "${workspaceFolder}/0001-helloWorld/helloWorld.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/helloWorld/helloWorld.csproj",
+                "${workspaceFolder}/0001-helloWorld/helloWorld.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/helloWorld/helloWorld.csproj",
+                "${workspaceFolder}/0001-helloWorld/helloWorld.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

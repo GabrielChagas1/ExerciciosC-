@@ -6,6 +6,7 @@ namespace helloWorld
     {
         static void Main(string[] args)
         {
+            //Console.BackgroundColor = ConsoleColor.DarkRed;
             int dia = DateTime.Now.Hour;//recuperando a hora atual
 
             System.Console.Write("Digite seu nome: ");
