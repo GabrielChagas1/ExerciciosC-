@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "0005-tabuada-2.0/1.0.0": {
+        "runtime": {
+          "0005-tabuada-2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0005-tabuada-2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

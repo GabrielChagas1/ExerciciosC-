@@ -1,0 +1,11 @@
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\obj\Debug\netcoreapp3.0\0005-tabuada-2.0.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\obj\Debug\netcoreapp3.0\0005-tabuada-2.0.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\obj\Debug\netcoreapp3.0\0005-tabuada-2.0.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.exe
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.deps.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.runtimeconfig.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.runtimeconfig.dev.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\bin\Debug\netcoreapp3.0\0005-tabuada-2.0.pdb
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\obj\Debug\netcoreapp3.0\0005-tabuada-2.0.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0005-tabuada-2.0\obj\Debug\netcoreapp3.0\0005-tabuada-2.0.pdb
