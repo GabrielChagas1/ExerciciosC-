@@ -1,0 +1,11 @@
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.exe
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.deps.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.runtimeconfig.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.runtimeconfig.dev.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\bin\Debug\netcoreapp3.0\0003-LendoArquivos.pdb
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\obj\Debug\netcoreapp3.0\0003-LendoArquivos.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\obj\Debug\netcoreapp3.0\0003-LendoArquivos.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\obj\Debug\netcoreapp3.0\0003-LendoArquivos.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\obj\Debug\netcoreapp3.0\0003-LendoArquivos.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0003-LendoArquivos\obj\Debug\netcoreapp3.0\0003-LendoArquivos.pdb
