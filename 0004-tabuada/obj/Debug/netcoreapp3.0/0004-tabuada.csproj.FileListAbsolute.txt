@@ -1,0 +1,11 @@
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.exe
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.deps.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.runtimeconfig.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.runtimeconfig.dev.json
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\bin\Debug\netcoreapp3.0\0004-tabuada.pdb
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\obj\Debug\netcoreapp3.0\0004-tabuada.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\obj\Debug\netcoreapp3.0\0004-tabuada.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\obj\Debug\netcoreapp3.0\0004-tabuada.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\obj\Debug\netcoreapp3.0\0004-tabuada.dll
+C:\Users\gabriel\Desktop\Projetos\Projetos C#\0004-tabuada\obj\Debug\netcoreapp3.0\0004-tabuada.pdb
